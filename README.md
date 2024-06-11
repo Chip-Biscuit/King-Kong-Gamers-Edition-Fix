@@ -10,7 +10,7 @@ the only thing added to this is window mode functionality so you can turn window
 
 go to SettingsApplication.exe to change your resolution for window mode - (1) for the window size, dont forget if you set it to (0) - fullscreen, to set it back to what you want your fullscreen resolution to be.
 
-brought to you by Fix Enhancers 
+window mode brought to you by Fix Enhancers 
 
 Team: 
 
