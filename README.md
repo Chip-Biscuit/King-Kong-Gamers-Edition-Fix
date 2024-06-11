@@ -1,6 +1,6 @@
 # KingKongGamersEditionFix
 
-simply put the d3d9.dll and d3d9.ini into your game folder next to the game exe replace the origional files that are there with theese and your good to go.
+simply put the d3d9.dll and d3d9.ini into your game folder next to the game exe replace the origional files that are there with these and your good to go.
 
 you can edit settings in d3d9.ini 
 
