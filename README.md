@@ -18,6 +18,4 @@ Team:
 
 Chip, JokerAlex21.
 
-credit to 13AG for d3d9hook base code.
-
-https://github.com/ThirteenAG/d3d9-wrapper
+credit to Elisha Riedlinger for the base wrapper and 13 AG.
