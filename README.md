@@ -12,6 +12,10 @@ having the game in window mode fixes issues with alt tabbing.
 
 go to SettingsApplication.exe to change your resolution for window mode - (1) for the window size, dont forget if you set it to (0) - fullscreen, to set it back to what you want your fullscreen resolution to be.
 
+If you have any issues please go to discord for help 
+
+https://discord.gg/pZwkHrTF8X
+
 window mode brought to you by Fix Enhancers 
 
 Team: 
